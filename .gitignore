@@ -1,0 +1,6 @@
+coverage
+node_modules
+dist
+/test-results/
+.vscode
+TODO.md
