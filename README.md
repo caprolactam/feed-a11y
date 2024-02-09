@@ -1,5 +1,9 @@
 # feed-a11y
 
+![bundle size](https://img.shields.io/bundlephobia/minzip/feed-a11y)
+[![check](https://github.com/caprolactam/feed-a11y/actions/workflows/tests.yml/badge.svg)](https://github.com/caprolactam/feed-a11y/actions/workflows/tests.yml)
+[![MIT License](https://img.shields.io/badge/license-MIT%20License-blue.svg?style=flat-square)](https://github.com/caprolactam/feed-a11y/blob/main/LICENSE)
+
 headless and accessible feed component for React.
 
 **Features**

@@ -90,11 +90,17 @@
     "react": ">=18",
     "react-dom": ">=18"
   },
-  "author": {
-    "name": "caprolactam"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caprolactam/feed-a11y.git"
   },
+  "bugs": {
+    "url": "https://github.com/caprolactam/feed-a11y/issues"
+  },
+  "author": "caprolactam <caprolactam113@gmail.com> (https://github.com/caprolactam/)",
   "keywords": [
     "react",
     "headless"
-  ]
+  ],
+  "homepage": "https://github.com/caprolactam/feed-a11y#readme"
 }
