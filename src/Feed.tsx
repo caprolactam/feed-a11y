@@ -392,7 +392,7 @@ function hasAny<T>(target: Array<T>): boolean {
 }
 
 function isDeveloping() {
-  return process.env.NODE_ENV !== 'production'
+  return process.env.NODE_ENV === 'development' || process.env.FEED_A11Y_TEST
 }
 
 const Root = Feed

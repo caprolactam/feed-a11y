@@ -27,7 +27,7 @@
     "storybook:build": "storybook build",
     "storybook:test": "concurrently -k -s first -n \"SB,TEST\" -c \"magenta,blue\" \"npm run storybook -- --no-open\" \"wait-on tcp:6006 && test-storybook\"",
     "e2e": "npx playwright test",
-    "test": "vitest run --silent",
+    "test": "cross-env FEED_A11Y_TEST=1 vitest run --silent",
     "prepare": "husky install"
   },
   "husky": {
