@@ -13,6 +13,10 @@ headless and accessible feed component for React.
 - ARIA roles and states
   [link](https://www.w3.org/WAI/ARIA/apg/patterns/feed#wai-ariaroles,states,andproperties).
 
+## Demo
+
+https://caprolactam.github.io/feed-a11y/
+
 ## Install
 
 ```sh
