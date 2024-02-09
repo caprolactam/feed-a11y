@@ -1,7 +1,7 @@
 {
   "name": "feed-a11y",
   "description": "Headless feed component for React.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "sideEffects": false,
   "main": "dist/index.js",
